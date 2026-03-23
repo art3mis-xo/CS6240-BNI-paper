@@ -1,0 +1,29 @@
+# virtual environment
+venv/
+.venv/
+env/
+
+# results 
+bni_results/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# dataset 
+flickr30k_images/
+*.jpg
+*.csv
+
+# model weights cache (auto-downloaded by open_clip)
+~/.cache/

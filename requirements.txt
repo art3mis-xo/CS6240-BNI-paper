@@ -1,0 +1,13 @@
+torch==2.2.2
+torchvision==0.17.2
+numpy<2
+open_clip_torch
+transformers
+datasets
+Pillow
+scipy
+scikit-learn
+matplotlib
+seaborn
+pandas
+tqdm
